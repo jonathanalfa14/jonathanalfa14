@@ -12,7 +12,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 <p align="left">
 <a href="https://github.com/jonathan-alfa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-alfa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-alfa&layout=compact&theme=algolia&hide=java,kotlin,swift&langs_count=3"/>
 </a>
 </p>
