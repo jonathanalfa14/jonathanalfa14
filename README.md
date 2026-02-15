@@ -11,9 +11,5 @@ Saya juga Kuliah di Universitas PGRI Madiun jurusan S1 - Teknik Informatika.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jonathan-alfa-grace-juliantio/)ku ya.
 
 <p align="left">
-<a href="https://github.com/jonathan-alfa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-alfa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-alfa&layout=compact&theme=algolia&hide=java,kotlin,swift&langs_count=3"/>
-</a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-alfa&theme=algolia" />
 </p>
