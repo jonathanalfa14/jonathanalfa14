@@ -1,15 +1,61 @@
-# Halo semua! 
+# Hi there, I'm Jonathan Alfa Grace Juliantio! 👋
 
-Perkenalkan nama saya **Jonathan Alfa Grace Juliantio**.<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;AI+Engineer+Enthusiast;Web+Developer+(Laravel);Vice+Chairman+of+DEPTICS" alt="Typing SVG" />
+</p>
 
-Saya seorang **Cohort AI Engineer** di [Dicoding](https://www.dicoding.com/).<br>
+---
 
-Saya adalah penggiat belajar untuk menjadi Seorang Software Engineer [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/53XEKVVJKXRN).<br>
+### 💫 About Me
 
-Saya juga Kuliah di Universitas PGRI Madiun jurusan S1 - Teknik Informatika.<br>
+I am an **Informatics Engineering** student at **Universitas PGRI Madiun (UNIPMA)** with a deep passion for building intelligent systems and scalable web applications. Currently, I am honing my skills as an **AI Engineer Cohort** at **DBS Foundation Coding Camp 2026**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jonathan-alfa-grace-juliantio/)ku ya.
+Beyond coding, I lead as the **Vice Chairman of DEPTICS** (Informatics Engineering Student Association), where I foster collaboration and innovation within the tech student community.
+
+- 🔭 I’m currently working on **AI-driven solutions and Laravel-based web apps**.
+- 🌱 I’m learning **Advanced Python, Machine Learning, and Deep Learning**.
+- 👯 I’m looking to collaborate on **Open Source projects and Tech Leadership initiatives**.
+- ⚡ Fun fact: When I'm not coding, I'm behind the drums hitting some **Groove & Progressive Metal** beats with my band, **Pararel**. 🥁
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
 
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-alfa&theme=algolia" />
+<a href="https://www.linkedin.com/in/jonathan-alfa-grace-juliantio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathan Alfa Grace Juliantio" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@example.com" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Code is like music; it requires rhythm, logic, and a bit of soul."</i>
 </p>
